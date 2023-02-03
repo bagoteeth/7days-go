@@ -1,1 +1,1 @@
-# 7days-go
+https://github.com/geektutu/7days-golang.git
