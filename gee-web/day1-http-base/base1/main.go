@@ -6,6 +6,7 @@ import (
 	"net/http"
 )
 
+//实现默认hander
 func main() {
 	http.HandleFunc("/", indexHandle)
 	http.HandleFunc("/hello", helloHandle)
