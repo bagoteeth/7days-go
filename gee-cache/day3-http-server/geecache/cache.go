@@ -1,7 +1,7 @@
 package geecache
 
 import (
-	"7days-go/gee-cache/day2-single-node/geecache/lru"
+	"7days-go/gee-cache/day3-http-server/geecache/lru"
 	"sync"
 )
 

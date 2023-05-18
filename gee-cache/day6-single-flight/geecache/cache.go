@@ -1,7 +1,7 @@
 package geecache
 
 import (
-	"7days-go/gee-cache/day5-multi-nodes/geecache/lru"
+	"7days-go/gee-cache/day6-single-flight/geecache/lru"
 	"sync"
 )
 
